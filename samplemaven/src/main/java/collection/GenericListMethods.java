@@ -43,7 +43,7 @@ public class GenericListMethods {
        //is Empty or not 
        System.out.println(a.isEmpty());//false
        //size
-       System.out.println(a.size());
+       System.out.println(a.size());//epo 4 aayii
        
 	}
 
