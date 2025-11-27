@@ -8,6 +8,7 @@ public class Ass7thisreverseconstructor {
 	int reversed;
 	public Ass7thisreverseconstructor()
 	{
+		System.out.println("Finding Reverse");
 		
 	}
 	public Ass7thisreverseconstructor(int a)

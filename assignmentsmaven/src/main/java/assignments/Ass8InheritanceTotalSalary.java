@@ -31,8 +31,8 @@ public class Ass8InheritanceTotalSalary extends  Ass8InheritanceCalculateSalary{
 }
 
 //find the total salary by hand 
-//class1 get basic pay,deduction an dbonus from console
-//class2 calculate hra and pf 
-//class 3 find the total salary (basicpay+hra-pf-deduction+bonus) and get the salary slip
+//class1 get basic pay,deduction an dbonus from console-Ass8InheritanceGetInfoSalary
+//class2 calculate hra and pf --Ass8InheritanceCalculateSalary
+//class 3 find the total salary (basicpay+hra-pf-deduction+bonus) and get the salary slip--Ass8InheritanceTotalSalary
 //salary slip should contain : basic pay ,deduction ,hra,pf ,bonus and total salary by hand
 // output 0
